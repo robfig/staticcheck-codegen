@@ -1,4 +1,4 @@
-module github.com/sluongng/staticcheck-codegen
+module github.com/robfig/staticcheck-codegen
 
 go 1.15
 
